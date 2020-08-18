@@ -33,7 +33,7 @@ public class App
 	public static void writeJsonSimpleDemo(String filename,List<String> array) throws Exception {
     	
     	JSONObject result=new JSONObject();
-    	 JSONObject sampletransaction=new JSONObject();
+    	
     	 JSONArray values = new JSONArray();
     	 int n=1; 
     	for(String str : array) {
