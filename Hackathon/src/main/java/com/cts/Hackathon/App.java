@@ -24,7 +24,7 @@ public class App
 		 	String[] columns = line.split(" ");		 	
 		 	list.add(columns[14]);		 	
 		 }
-		 writeJsonSimpleDemo("Output.json", list);
+		 writeJsonSimpleDemo("abcd.json", list);
 		 
     }
     
