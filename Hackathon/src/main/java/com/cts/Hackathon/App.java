@@ -17,7 +17,7 @@ public class App
     
 	public static void main( String[] args ) throws Exception
     {
-    	BufferedReader br = new BufferedReader(new FileReader("D:/CPU.txt"));
+    	BufferedReader br = new BufferedReader(new FileReader("D:\\CPU.txt"));
 		 String line;
 		List<String> list=new ArrayList<String>();
 		 while((line = br.readLine()) != null) {
