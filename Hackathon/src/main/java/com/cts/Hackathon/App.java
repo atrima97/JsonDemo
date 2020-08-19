@@ -23,7 +23,7 @@ public class Cpu{
 			//System.out.println(c[14]);
 			list.add(c[14]);
 		}
-		 writeJsonSimpleDemo("Output.json",list);
+		 writeJsonSimpleDemo("abcd.json",list);
 	}
 	
 	
